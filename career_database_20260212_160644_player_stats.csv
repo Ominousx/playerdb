@@ -1,0 +1,26 @@
+player_id,real_name,country,current_team,player_status,total_teams,unique_teams,teams_played_multiple_times,career_start_date,career_end_date,career_start_year,career_end_year,career_span_years,total_career_days,avg_stint_duration_days,is_active,has_current_team,inactive_stints,loan_stints,standin_stints,roles,birth_date,player_url
+10K,Théo Navaro,France,,Active,9,9,0,2021-01-19,2023-03-25,2021,2026,5,620,68.88888888888889,True,False,2,0,0,[],,https://liquipedia.net/valorant/10K
+AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,11,9,2,2020-05-13,Present,2020,2026,6,1924,174.9090909090909,True,True,2,0,0,[],,https://liquipedia.net/valorant/AKUMAAAAA
+APO,Tom Bonnion,France,,Active,11,10,1,2020-12-14,2024-09-29,2020,2026,6,1116,101.45454545454545,True,False,1,0,1,[],,https://liquipedia.net/valorant/APO
+Akio,Emil Tichit,France,Colors Esport,Active,2,2,0,2025-04-10,2026-01-23,2025,2026,1,286,143.0,True,True,0,0,0,[],,https://liquipedia.net/valorant/Akio
+Akita,Esllene Xu,France,G2 Gozen,Active,4,4,0,2024-01-24,Present,2024,2026,2,741,185.25,True,True,0,0,0,[],,https://liquipedia.net/valorant/Akita
+Alikea,Alicia Boina,France,GODSENT IRIS,Active,1,1,0,2020-05-07,Present,2020,2026,6,2107,2107.0,True,True,0,0,0,[],,https://liquipedia.net/valorant/Alikea
+BaWaN,Loic Martello,France,,Active,3,2,1,2022-02-11,2023-11-30,2022,2023,1,541,180.33333333333334,True,False,0,0,0,[],,https://liquipedia.net/valorant/BaWaN
+Babax,Baptiste Bertrand,France,ToDoBew,Active,5,4,1,2022-09-04,Present,2022,2026,4,1197,239.4,True,True,0,0,0,[],,https://liquipedia.net/valorant/Babax
+Ché,Clément Doufar,France,Coalesce,Active,5,5,0,2023-09-08,Present,2023,2026,3,592,118.4,True,True,0,0,0,[],,https://liquipedia.net/valorant/Ch%C3%A9
+Cla,Clara Rossi,France,,Active,6,6,0,2021-04-10,2024-07-15,2021,2024,3,1031,171.83333333333334,True,False,1,0,0,[],,https://liquipedia.net/valorant/Cla
+CyvOph,Clément Millard,France,Team Vitality,Active,10,8,2,2021-07-18,2025-10-01,2021,2026,5,1155,115.5,True,True,3,1,0,[],,https://liquipedia.net/valorant/CyvOph
+DGR,Erwan Hery,France,Caldya Esport,Active,3,3,0,2022-10-11,2025-03-10,2022,2026,4,46,15.333333333333334,True,True,0,0,0,[],,https://liquipedia.net/valorant/DGR
+DarkLight,Lucas Rossetto,France,,Active,5,4,1,2022-02-11,2024-07-31,2022,2024,2,609,121.8,True,False,1,0,0,[],,https://liquipedia.net/valorant/DarkLight
+Dawn,Tristan Bornet,France,,Active,10,7,3,2020-05-23,2024-03-06,2020,2026,6,452,45.2,True,False,2,0,1,[],,https://liquipedia.net/valorant/Dawn_(French_player)
+Enzo,Enzo Mestari,France,Joblife,Active,13,12,1,2020-04-13,Present,2020,2026,6,1951,150.07692307692307,True,True,4,1,0,[],,https://liquipedia.net/valorant/Enzo
+FLORA,,France,,Active,2,2,0,2024-05-03,2024-09-21,2024,2024,0,141,70.5,True,False,0,0,0,[],,https://liquipedia.net/valorant/FLORA
+Flaring,Henri Forichon,France,Motiv Esports,Active,10,9,1,2021-11-08,Present,2021,2026,5,733,73.3,True,True,0,0,1,[],,https://liquipedia.net/valorant/Flaring
+GatsH,Guillaume Kalka,France,,Active,8,7,1,2020-08-21,2024-04-20,2020,2024,4,1017,127.125,True,False,1,0,0,[],,https://liquipedia.net/valorant/GatsH
+GillianH,Gillian Hamel,France,,Active,1,1,0,2022-05-18,,2022,2026,4,0,0.0,True,False,0,0,0,[],,https://liquipedia.net/valorant/GillianH
+Goaster,Tony Richard,France,Colors Esport,Active,9,9,0,2021-01-19,Present,2021,2026,5,1444,160.44444444444446,True,True,0,0,0,[],,https://liquipedia.net/valorant/Goaster
+Helas,Saleh Ben Atia,France,One More Esports,Active,4,4,0,2024-07-11,Present,2024,2026,2,460,115.0,True,True,0,0,0,[],,https://liquipedia.net/valorant/Helas
+Hiiro,Eric Brassac,France,LEO,Active,3,3,0,2024-01-08,Present,2024,2026,2,457,152.33333333333334,True,True,0,0,0,[],,https://liquipedia.net/valorant/Hiiro
+HyP,Damien Souville,France,Mandatory,Active,10,10,0,2020-04-13,Present,2020,2026,6,1955,195.5,True,True,1,0,0,[],,https://liquipedia.net/valorant/HyP
+Jakexd,Alhan Meguenni,France,,Active,4,4,0,2022-02-10,2023-07-01,2022,2023,1,355,88.75,True,False,0,0,0,[],,https://liquipedia.net/valorant/Jakexd
+Jamelinho213,Ryad Bentot,France,Eintracht Frankfurt,Active,2,2,0,2025-10-01,Present,2025,2026,1,46,23.0,True,True,0,0,0,[],,https://liquipedia.net/valorant/Jamelinho213

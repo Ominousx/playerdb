@@ -1,0 +1,152 @@
+stint_id,player_id,real_name,country,current_team,player_status,stint_number,total_stints,team,date_start,date_end,date_range,stint_status,is_current_team,duration_days,year_start,year_end,roles,player_url
+1,10K,Théo Navaro,France,,Active,1,9,Megakich,2021-01-19,2021-05-02,2021-01-19 — 2021-05-02,Active,False,103,2021,2021,[],https://liquipedia.net/valorant/10K
+2,10K,Théo Navaro,France,,Active,2,9,Team Finest,2021-05-31,2021-08-12,2021-05-31 — 2021-08-12,Active,False,73,2021,2021,[],https://liquipedia.net/valorant/10K
+3,10K,Théo Navaro,France,,Active,3,9,Orgless22,2022-01-04,2022-02-11,2022-01-04 — 2022-02-11,Active,False,38,2022,2022,[],https://liquipedia.net/valorant/10K
+4,10K,Théo Navaro,France,,Active,4,9,Dsyre,2022-02-11,2022-04-19,2022-02-11 — 2022-04-19,Active,False,67,2022,2022,[],https://liquipedia.net/valorant/10K
+5,10K,Théo Navaro,France,,Active,5,9,Valar Morghulis,2022-04-20,2022-07-04,2022-04-20 — 2022-07-04,Active,False,75,2022,2022,[],https://liquipedia.net/valorant/10K
+6,10K,Théo Navaro,France,,Active,6,9,VMS,2022-07-04,2022-10-06,2022-07-04 — 2022-10-06,Inactive,False,94,2022,2022,[],https://liquipedia.net/valorant/10K
+7,10K,Théo Navaro,France,,Active,7,9,GMT Esports,2022-10-06,2022-12-04,2022-10-06 — 2022-12-04,Active,False,59,2022,2022,[],https://liquipedia.net/valorant/10K
+8,10K,Théo Navaro,France,,Active,8,9,GMT,2022-12-04,2023-03-25,2022-12-04 — 2023-03-25,Inactive,False,111,2022,2023,[],https://liquipedia.net/valorant/10K
+9,10K,Théo Navaro,France,,Active,9,9,Akroma,2023-04-02,,2023-04-02 — 2023-??-??,Active,False,0,2023,2026,[],https://liquipedia.net/valorant/10K
+10,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,1,11,StartedFromCS,2020-05-13,2020-09-01,2020-05-13 — 2020-09-01,Active,False,111,2020,2020,[],https://liquipedia.net/valorant/AKUMAAAAA
+11,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,2,11,Opportunists,2020-09-14,2020-11-26,2020-09-14 — 2020-11-26,Active,False,73,2020,2020,[],https://liquipedia.net/valorant/AKUMAAAAA
+12,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,3,11,DfuseTeam,2020-11-26,2021-03-31,2020-11-26 — 2021-03-31,Active,False,125,2020,2021,[],https://liquipedia.net/valorant/AKUMAAAAA
+13,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,4,11,Opportunists,2021-03-31,2021-04-15,2021-03-31 — 2021-04-15,Active,False,15,2021,2021,[],https://liquipedia.net/valorant/AKUMAAAAA
+14,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,5,11,Team BDS,2021-04-15,2022-02-13,2021-04-15 — 2022-02-13,Active,False,304,2021,2022,[],https://liquipedia.net/valorant/AKUMAAAAA
+15,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,6,11,Mandatory,2022-04-11,2024-08-18,2022-04-11 — 2024-08-18,Active,False,860,2022,2024,[],https://liquipedia.net/valorant/AKUMAAAAA
+16,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,7,11,MDR,2024-08-18,2024-09-13,2024-08-18 — 2024-09-13,Inactive,False,26,2024,2024,[],https://liquipedia.net/valorant/AKUMAAAAA
+17,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,8,11,Joblife,2024-12-29,2025-05-25,2024-12-29 — 2025-05-25,Active,False,147,2024,2025,[],https://liquipedia.net/valorant/AKUMAAAAA
+18,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,9,11,Joblife,2025-05-25,2025-10-30,2025-05-25 — 2025-10-30,Inactive,False,158,2025,2025,[],https://liquipedia.net/valorant/AKUMAAAAA
+19,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,10,11,Nuxeria Esport,2025-10-30,2026-01-05,2025-10-30 — 2026-01-05,Active,False,67,2025,2026,[],https://liquipedia.net/valorant/AKUMAAAAA
+20,AKUMAAAAA,Alex Lo Bello,France,Esprit Shōnen,Active,11,11,Esprit Shōnen,2026-01-05,Present,2026-01-05 —Present,Active,True,38,2026,2026,[],https://liquipedia.net/valorant/AKUMAAAAA
+21,APO,Tom Bonnion,France,,Active,1,11,Cave Canem,2020-12-14,2021-01-12,2020-12-14 — 2021-01-12,Active,False,29,2020,2021,[],https://liquipedia.net/valorant/APO
+22,APO,Tom Bonnion,France,,Active,2,11,Entropiq,2021-02-03,2021-06-01,2021-02-03 — 2021-06-01,Active,False,118,2021,2021,[],https://liquipedia.net/valorant/APO
+23,APO,Tom Bonnion,France,,Active,3,11,Megastitut,2021-06-18,2021-07-13,2021-06-18 — 2021-07-13,Active,False,25,2021,2021,[],https://liquipedia.net/valorant/APO
+24,APO,Tom Bonnion,France,,Active,4,11,Bonsoir,2021-07-13,2021-10-18,2021-07-13 — 2021-10-18,Active,False,97,2021,2021,[],https://liquipedia.net/valorant/APO
+25,APO,Tom Bonnion,France,,Active,5,11,Last Dance,2021-10-18,2022-01-28,2021-10-18 — 2022-01-28,Active,False,102,2021,2022,[],https://liquipedia.net/valorant/APO
+26,APO,Tom Bonnion,France,,Active,6,11,Mandatory,2022-01-28,2022-07-12,2022-01-28 — 2022-07-12,Active,False,165,2022,2022,[],https://liquipedia.net/valorant/APO
+27,APO,Tom Bonnion,France,,Active,7,11,M8,2023-02-03,2023-05-04,2023-02-03 — 2023-05-04,Stand-in,False,90,2023,2023,[],https://liquipedia.net/valorant/APO
+28,APO,Tom Bonnion,France,,Active,8,11,Gentle Mates,2023-05-04,2023-11-16,2023-05-04 — 2023-11-16,Active,False,196,2023,2023,[],https://liquipedia.net/valorant/APO
+29,APO,Tom Bonnion,France,,Active,9,11,Solary,2023-12-10,2024-08-26,2023-12-10 — 2024-08-26,Active,False,260,2023,2024,[],https://liquipedia.net/valorant/APO
+30,APO,Tom Bonnion,France,,Active,10,11,Solary,2024-08-26,2024-09-29,2024-08-26 — 2024-09-29,Inactive,False,34,2024,2024,[],https://liquipedia.net/valorant/APO
+31,APO,Tom Bonnion,France,,Active,11,11,Retired,2024-12-24,,2024-12-24,Active,False,0,2024,2026,[],https://liquipedia.net/valorant/APO
+32,Akio,Emil Tichit,France,Colors Esport,Active,1,2,MGA Esport,2025-04-10,2025-05-24,2025-04-10 — 2025-05-24,Active,False,44,2025,2025,[],https://liquipedia.net/valorant/Akio
+33,Akio,Emil Tichit,France,Colors Esport,Active,2,2,Colors Esport,2025-05-26,2026-01-23,2025-05-26 — 2026-01-23,Active,False,242,2025,2026,[],https://liquipedia.net/valorant/Akio
+34,Akita,Esllene Xu,France,G2 Gozen,Active,1,4,Cicadas Krew,2024-01-24,2024-04-12,2024-01-24 — 2024-04-12,Active,False,79,2024,2024,[],https://liquipedia.net/valorant/Akita
+35,Akita,Esllene Xu,France,G2 Gozen,Active,2,4,F9 Wonders,2024-04-19,2024-07-04,2024-04-19 — 2024-07-04,Active,False,76,2024,2024,[],https://liquipedia.net/valorant/Akita
+36,Akita,Esllene Xu,France,G2 Gozen,Active,3,4,ZERANCE MINT,2024-07-06,2025-04-28,2024-07-06 — 2025-04-28,Active,False,296,2024,2025,[],https://liquipedia.net/valorant/Akita
+37,Akita,Esllene Xu,France,G2 Gozen,Active,4,4,G2 Gozen,2025-04-28,Present,2025-04-28 —Present,Active,True,290,2025,2026,[],https://liquipedia.net/valorant/Akita
+38,Alikea,Alicia Boina,France,GODSENT IRIS,Active,1,1,GODSENT IRIS,2020-05-07,Present,2020-05-07 —Present,Active,True,2107,2020,2026,[],https://liquipedia.net/valorant/Alikea
+39,BaWaN,Loic Martello,France,,Active,1,3,beGenius ESC,2022-02-11,2022-12-08,2022-02-11 — 2022-12-08,Active,False,300,2022,2022,[],https://liquipedia.net/valorant/BaWaN
+40,BaWaN,Loic Martello,France,,Active,2,3,3DMAX,2023-04-03,2023-09-18,2023-04-03 — 2023-09-18,Coach,False,168,2023,2023,[],https://liquipedia.net/valorant/BaWaN
+41,BaWaN,Loic Martello,France,,Active,3,3,3DMAX,2023-09-18,2023-11-30,2023-09-18 — 2023-11-30,Active,False,73,2023,2023,[],https://liquipedia.net/valorant/BaWaN
+42,Babax,Baptiste Bertrand,France,ToDoBew,Active,1,5,ZERANCE,2022-09-04,,2022-??-?? — 2022-09-04,Active,False,0,2022,2026,[],https://liquipedia.net/valorant/Babax
+43,Babax,Baptiste Bertrand,France,ToDoBew,Active,2,5,Mandatory,2022-09-19,2022-12-12,2022-09-19 — 2022-12-12,Active,False,84,2022,2022,[],https://liquipedia.net/valorant/Babax
+44,Babax,Baptiste Bertrand,France,ToDoBew,Active,3,5,ZERANCE,2023-01-10,2025-03-12,2023-01-10 — 2025-03-12,Active,False,792,2023,2025,[],https://liquipedia.net/valorant/Babax
+45,Babax,Baptiste Bertrand,France,ToDoBew,Active,4,5,F9 EICAR,2025-03-28,2025-06-05,2025-03-28 — 2025-06-05,Active,False,69,2025,2025,[],https://liquipedia.net/valorant/Babax
+46,Babax,Baptiste Bertrand,France,ToDoBew,Active,5,5,ToDoBew,2025-06-05,Present,2025-06-05 —Present,Active,True,252,2025,2026,[],https://liquipedia.net/valorant/Babax
+47,Ché,Clément Doufar,France,Coalesce,Active,1,5,Exalty,2023-09-08,2023-12-18,2023-09-08 — 2023-12-18,Active,False,101,2023,2023,[],https://liquipedia.net/valorant/Ch%C3%A9
+48,Ché,Clément Doufar,France,Coalesce,Active,2,5,NOMAD,2024-02-15,2024-07-13,2024-02-15 — 2024-07-13,Active,False,149,2024,2024,[],https://liquipedia.net/valorant/Ch%C3%A9
+49,Ché,Clément Doufar,France,Coalesce,Active,3,5,Valiant Legacy,2025-03-07,2025-11-03,2025-03-07 — 2025-11-03,Active,False,241,2025,2025,[],https://liquipedia.net/valorant/Ch%C3%A9
+50,Ché,Clément Doufar,France,Coalesce,Active,4,5,Vestige,2025-11-03,2026-01-16,2025-11-03 — 2026-01-16,Active,False,74,2025,2026,[],https://liquipedia.net/valorant/Ch%C3%A9
+51,Ché,Clément Doufar,France,Coalesce,Active,5,5,Coalesce,2026-01-16,Present,2026-01-16 —Present,Active,True,27,2026,2026,[],https://liquipedia.net/valorant/Ch%C3%A9
+52,Cla,Clara Rossi,France,,Active,1,6,GangsterzZ,2021-04-10,2021-08-08,2021-04-10 — 2021-08-08,Active,False,120,2021,2021,[],https://liquipedia.net/valorant/Cla
+53,Cla,Clara Rossi,France,,Active,2,6,TENSTAR Nova,2021-08-08,2022-12-01,2021-08-08 — 2022-12-01,Active,False,480,2021,2022,[],https://liquipedia.net/valorant/Cla
+54,Cla,Clara Rossi,France,,Active,3,6,TEN N,2022-12-01,2023-01-01,2022-12-01 — 2023-01-01,Inactive,False,31,2022,2023,[],https://liquipedia.net/valorant/Cla
+55,Cla,Clara Rossi,France,,Active,4,6,CBA,2023-02-22,2023-06-29,2023-02-22 — 2023-06-29,Active,False,127,2023,2023,[],https://liquipedia.net/valorant/Cla
+56,Cla,Clara Rossi,France,,Active,5,6,Guild X,2023-06-29,2023-12-01,2023-06-29 — 2023-12-01,Active,False,155,2023,2023,[],https://liquipedia.net/valorant/Cla
+57,Cla,Clara Rossi,France,,Active,6,6,NASR Ignite,2024-03-19,2024-07-15,2024-03-19 — 2024-07-15,Active,False,118,2024,2024,[],https://liquipedia.net/valorant/Cla
+58,CyvOph,Clément Millard,France,Team Vitality,Active,1,10,Exalty,2021-07-18,2021-10-26,2021-07-18 — 2021-10-26,Active,False,100,2021,2021,[],https://liquipedia.net/valorant/CyvOph
+59,CyvOph,Clément Millard,France,Team Vitality,Active,2,10,beGenius ESC,2022-10-18,2022-12-16,2022-10-18 — 2022-12-16,Active,False,59,2022,2022,[],https://liquipedia.net/valorant/CyvOph
+60,CyvOph,Clément Millard,France,Team Vitality,Active,3,10,Valiant,2023-01-09,2023-06-19,2023-01-09 — 2023-06-19,Active,False,161,2023,2023,[],https://liquipedia.net/valorant/CyvOph
+61,CyvOph,Clément Millard,France,Team Vitality,Active,4,10,Valiant,2023-06-19,2023-09-18,2023-06-19 — 2023-09-18,Inactive,False,91,2023,2023,[],https://liquipedia.net/valorant/CyvOph
+62,CyvOph,Clément Millard,France,Team Vitality,Active,5,10,3DMAX,2023-09-18,2023-10-02,2023-09-18 — 2023-10-02,Active,False,14,2023,2023,[],https://liquipedia.net/valorant/CyvOph
+63,CyvOph,Clément Millard,France,Team Vitality,Active,6,10,3DMAX,2023-10-02,2024-01-18,2023-10-02 — 2024-01-18,Inactive,False,108,2023,2024,[],https://liquipedia.net/valorant/CyvOph
+64,CyvOph,Clément Millard,France,Team Vitality,Active,7,10,Mandatory,2024-01-18,2025-03-18,2024-01-18 — 2025-03-18,Active,False,425,2024,2025,[],https://liquipedia.net/valorant/CyvOph
+65,CyvOph,Clément Millard,France,Team Vitality,Active,8,10,Team Vitality,2025-03-18,2025-06-16,2025-03-18 — 2025-06-16,Active,False,90,2025,2025,[],https://liquipedia.net/valorant/CyvOph
+66,CyvOph,Clément Millard,France,Team Vitality,Active,9,10,VIT,2025-06-16,,2025-06-16,Inactive,False,0,2025,2026,[],https://liquipedia.net/valorant/CyvOph
+67,CyvOph,Clément Millard,France,Team Vitality,Active,10,10,›Joblife,2025-06-16,2025-10-01,2025-06-16 — 2025-10-01,Loan,False,107,2025,2025,[],https://liquipedia.net/valorant/CyvOph
+68,DGR,Erwan Hery,France,Caldya Esport,Active,1,3,Klanik Esport,2022-10-11,2022-11-24,2022-10-11 — 2022-11-24,Active,False,44,2022,2022,[],https://liquipedia.net/valorant/DGR
+69,DGR,Erwan Hery,France,Caldya Esport,Active,2,3,mCon esports,2025-03-08,2025-03-10,2025-03-08 — 2025-03-10,Active,False,2,2025,2025,[],https://liquipedia.net/valorant/DGR
+70,DGR,Erwan Hery,France,Caldya Esport,Active,3,3,Caldya Esport,2025-06-24,,2025-06-24 — 2025-07-??,Active,False,0,2025,2026,[],https://liquipedia.net/valorant/DGR
+71,DarkLight,Lucas Rossetto,France,,Active,1,5,beGenius ESC,2022-02-11,2022-07-04,2022-02-11 — 2022-07-04,Active,False,143,2022,2022,[],https://liquipedia.net/valorant/DarkLight
+72,DarkLight,Lucas Rossetto,France,,Active,2,5,ZERANCE,2023-01-10,2023-07-20,2023-01-10 — 2023-07-20,Active,False,191,2023,2023,[],https://liquipedia.net/valorant/DarkLight
+73,DarkLight,Lucas Rossetto,France,,Active,3,5,ZERANCE,2023-07-20,2023-10-07,2023-07-20 — 2023-10-07,Inactive,False,79,2023,2023,[],https://liquipedia.net/valorant/DarkLight
+74,DarkLight,Lucas Rossetto,France,,Active,4,5,Bakim Corp,2024-01-17,2024-05-09,2024-01-17 — 2024-05-09,Active,False,113,2024,2024,[],https://liquipedia.net/valorant/DarkLight
+75,DarkLight,Lucas Rossetto,France,,Active,5,5,Solary,2024-05-09,2024-07-31,2024-05-09 — 2024-07-31,Active,False,83,2024,2024,[],https://liquipedia.net/valorant/DarkLight
+76,Dawn,Tristan Bornet,France,,Active,1,10,Exceptis,2020-05-23,,2020-05-23 — 2020-06-??,Active,False,0,2020,2026,[],https://liquipedia.net/valorant/Dawn_(French_player)
+77,Dawn,Tristan Bornet,France,,Active,2,10,Project SW,2020-08-04,2020-10-21,2020-08-04 — 2020-10-21,Active,False,78,2020,2020,[],https://liquipedia.net/valorant/Dawn_(French_player)
+78,Dawn,Tristan Bornet,France,,Active,3,10,CGN Esports,2021-01-17,2021-02-15,2021-01-17 — 2021-02-15,Active,False,29,2021,2021,[],https://liquipedia.net/valorant/Dawn_(French_player)
+79,Dawn,Tristan Bornet,France,,Active,4,10,WYLDE,2022-02-11,2022-04-15,2022-02-11 — 2022-04-15,Active,False,63,2022,2022,[],https://liquipedia.net/valorant/Dawn_(French_player)
+80,Dawn,Tristan Bornet,France,,Active,5,10,WYLDE,2022-04-15,2022-05-05,2022-04-15 — 2022-05-05,Inactive,False,20,2022,2022,[],https://liquipedia.net/valorant/Dawn_(French_player)
+81,Dawn,Tristan Bornet,France,,Active,6,10,WYLDE,2022-05-05,2022-08-08,2022-05-05 — 2022-08-08,Active,False,95,2022,2022,[],https://liquipedia.net/valorant/Dawn_(French_player)
+82,Dawn,Tristan Bornet,France,,Active,7,10,3DMAX,2023-01-10,2023-02-22,2023-01-10 — 2023-02-22,Active,False,43,2023,2023,[],https://liquipedia.net/valorant/Dawn_(French_player)
+83,Dawn,Tristan Bornet,France,,Active,8,10,3DMAX,2023-02-22,2023-03-31,2023-02-22 — 2023-03-31,Inactive,False,37,2023,2023,[],https://liquipedia.net/valorant/Dawn_(French_player)
+84,Dawn,Tristan Bornet,France,,Active,9,10,B8 Esports,2023-03-31,2023-06-10,2023-03-31 — 2023-06-10,Active,False,71,2023,2023,[],https://liquipedia.net/valorant/Dawn_(French_player)
+85,Dawn,Tristan Bornet,France,,Active,10,10,B8,2024-02-19,2024-03-06,2024-02-19 — 2024-03-06,Stand-in,False,16,2024,2024,[],https://liquipedia.net/valorant/Dawn_(French_player)
+86,Enzo,Enzo Mestari,France,Joblife,Active,1,13,HypHypHyp,2020-04-13,2020-07-02,2020-04-13 — 2020-07-02,Active,False,80,2020,2020,[],https://liquipedia.net/valorant/Enzo
+87,Enzo,Enzo Mestari,France,Joblife,Active,2,13,Ninjas in Pyjamas,2020-07-14,2020-09-17,2020-07-14 — 2020-09-17,Active,False,65,2020,2020,[],https://liquipedia.net/valorant/Enzo
+88,Enzo,Enzo Mestari,France,Joblife,Active,3,13,NiP,2020-09-17,2020-10-20,2020-09-17 — 2020-10-20,Inactive,False,33,2020,2020,[],https://liquipedia.net/valorant/Enzo
+89,Enzo,Enzo Mestari,France,Joblife,Active,4,13,Alliance,2021-01-28,2022-03-31,2021-01-28 — 2022-03-31,Active,False,427,2021,2022,[],https://liquipedia.net/valorant/Enzo
+90,Enzo,Enzo Mestari,France,Joblife,Active,5,13,ALL,2022-03-31,2022-05-02,2022-03-31 — 2022-05-02,Inactive,False,32,2022,2022,[],https://liquipedia.net/valorant/Enzo
+91,Enzo,Enzo Mestari,France,Joblife,Active,6,13,›Fnatic,2022-03-31,2022-05-09,2022-03-31 — 2022-05-09,Loan,False,39,2022,2022,[],https://liquipedia.net/valorant/Enzo
+92,Enzo,Enzo Mestari,France,Joblife,Active,7,13,Fnatic,2022-05-09,2022-09-22,2022-05-09 — 2022-09-22,Active,False,136,2022,2022,[],https://liquipedia.net/valorant/Enzo
+93,Enzo,Enzo Mestari,France,Joblife,Active,8,13,Fnatic,2022-09-22,2022-11-30,2022-09-22 — 2022-11-30,Inactive,False,69,2022,2022,[],https://liquipedia.net/valorant/Enzo
+94,Enzo,Enzo Mestari,France,Joblife,Active,9,13,Apeks,2023-01-10,2023-11-02,2023-01-10 — 2023-11-02,Active,False,296,2023,2023,[],https://liquipedia.net/valorant/Enzo
+95,Enzo,Enzo Mestari,France,Joblife,Active,10,13,Team Liquid,2023-11-04,2024-08-30,2023-11-04 — 2024-08-30,Active,False,300,2023,2024,[],https://liquipedia.net/valorant/Enzo
+96,Enzo,Enzo Mestari,France,Joblife,Active,11,13,TL,2024-08-30,2024-10-24,2024-08-30 — 2024-10-24,Inactive,False,55,2024,2024,[],https://liquipedia.net/valorant/Enzo
+97,Enzo,Enzo Mestari,France,Joblife,Active,12,13,Mandatory,2024-12-20,2025-11-26,2024-12-20 — 2025-11-26,Active,False,341,2024,2025,[],https://liquipedia.net/valorant/Enzo
+98,Enzo,Enzo Mestari,France,Joblife,Active,13,13,Joblife,2025-11-26,Present,2025-11-26 —Present,Active,True,78,2025,2026,[],https://liquipedia.net/valorant/Enzo
+99,FLORA,,France,,Active,1,2,HUGE Esports,2024-05-03,2024-06-14,2024-05-03 — 2024-06-14,Active,False,42,2024,2024,[],https://liquipedia.net/valorant/FLORA
+100,FLORA,,France,,Active,2,2,F9 Wonders,2024-06-14,2024-09-21,2024-06-14 — 2024-09-21,Active,False,99,2024,2024,[],https://liquipedia.net/valorant/FLORA
+101,Flaring,Henri Forichon,France,Motiv Esports,Active,1,10,Louvre,2021-11-08,2021-11-30,2021-11-08 — 2021-11-30,Active,False,22,2021,2021,[],https://liquipedia.net/valorant/Flaring
+102,Flaring,Henri Forichon,France,Motiv Esports,Active,2,10,Bleed eSports,2022-01-04,2022-03-28,2022-01-04 — 2022-03-28,Active,False,83,2022,2022,[],https://liquipedia.net/valorant/Flaring
+103,Flaring,Henri Forichon,France,Motiv Esports,Active,3,10,KPMOONIIBLM9,2022-04-30,2022-05-20,2022-04-30 — 2022-05-20,Active,False,20,2022,2022,[],https://liquipedia.net/valorant/Flaring
+104,Flaring,Henri Forichon,France,Motiv Esports,Active,4,10,BearClaw Gaming,2022-05-20,2022-08-15,2022-05-20 — 2022-08-15,Active,False,87,2022,2022,[],https://liquipedia.net/valorant/Flaring
+105,Flaring,Henri Forichon,France,Motiv Esports,Active,5,10,Kizuna Esports,2022-12-05,2023-06-04,2022-12-05 — 2023-06-04,Active,False,181,2022,2023,[],https://liquipedia.net/valorant/Flaring
+106,Flaring,Henri Forichon,France,Motiv Esports,Active,6,10,AE,2023-11-17,2023-12-04,2023-11-17 — 2023-12-04,Stand-in,False,17,2023,2023,[],https://liquipedia.net/valorant/Flaring
+107,Flaring,Henri Forichon,France,Motiv Esports,Active,7,10,Elevate,2024-06-02,2024-07-22,2024-06-02 — 2024-07-22,Active,False,50,2024,2024,[],https://liquipedia.net/valorant/Flaring
+108,Flaring,Henri Forichon,France,Motiv Esports,Active,8,10,Xipto Esports,2025-01-01,2025-02-15,2025-01-01 — 2025-02-15,Active,False,45,2025,2025,[],https://liquipedia.net/valorant/Flaring
+109,Flaring,Henri Forichon,France,Motiv Esports,Active,9,10,Motiv Esports,2025-04-02,2025-11-04,2025-04-02 — 2025-11-04,Active,False,216,2025,2025,[],https://liquipedia.net/valorant/Flaring
+110,Flaring,Henri Forichon,France,Motiv Esports,Active,10,10,Motiv Esports,2026-01-31,Present,2026-01-31 —Present,Active,True,12,2026,2026,[],https://liquipedia.net/valorant/Flaring
+111,GatsH,Guillaume Kalka,France,,Active,1,8,ROG Esport,2020-08-21,2020-12-28,2020-08-21 — 2020-12-28,Active,False,129,2020,2020,[],https://liquipedia.net/valorant/GatsH
+112,GatsH,Guillaume Kalka,France,,Active,2,8,SIGN US,2020-12-28,2021-02-04,2020-12-28 — 2021-02-04,Active,False,38,2020,2021,[],https://liquipedia.net/valorant/GatsH
+113,GatsH,Guillaume Kalka,France,,Active,3,8,Edelweiss Esports,2021-02-04,2021-07-20,2021-02-04 — 2021-07-20,Active,False,166,2021,2021,[],https://liquipedia.net/valorant/GatsH
+114,GatsH,Guillaume Kalka,France,,Active,4,8,Team BDS,2021-07-20,2021-10-20,2021-07-20 — 2021-10-20,Active,False,92,2021,2021,[],https://liquipedia.net/valorant/GatsH
+115,GatsH,Guillaume Kalka,France,,Active,5,8,Rebels Gaming,2022-01-12,2022-10-24,2022-01-12 — 2022-10-24,Active,False,285,2022,2022,[],https://liquipedia.net/valorant/GatsH
+116,GatsH,Guillaume Kalka,France,,Active,6,8,RBLS,2022-10-24,2022-12-28,2022-10-24 — 2022-12-28,Inactive,False,65,2022,2022,[],https://liquipedia.net/valorant/GatsH
+117,GatsH,Guillaume Kalka,France,,Active,7,8,Rebels Gaming,2022-12-28,2023-06-12,2022-12-28 — 2023-06-12,Active,False,166,2022,2023,[],https://liquipedia.net/valorant/GatsH
+118,GatsH,Guillaume Kalka,France,,Active,8,8,Case Esports,2024-02-04,2024-04-20,2024-02-04 — 2024-04-20,Active,False,76,2024,2024,[],https://liquipedia.net/valorant/GatsH
+119,GillianH,Gillian Hamel,France,,Active,1,1,Valar Morghulis,2022-05-18,,2022-??-?? — 2022-05-18,Active,False,0,2022,2026,[],https://liquipedia.net/valorant/GillianH
+120,Goaster,Tony Richard,France,Colors Esport,Active,1,9,Megakich,2021-01-19,2021-05-02,2021-01-19 — 2021-05-02,Active,False,103,2021,2021,[],https://liquipedia.net/valorant/Goaster
+121,Goaster,Tony Richard,France,Colors Esport,Active,2,9,Megastitut,2021-05-06,2021-10-18,2021-05-06 — 2021-10-18,Active,False,165,2021,2021,[],https://liquipedia.net/valorant/Goaster
+122,Goaster,Tony Richard,France,Colors Esport,Active,3,9,Last Dance,2021-10-18,,2021-10-18 — 2021-??-??,Active,False,0,2021,2026,[],https://liquipedia.net/valorant/Goaster
+123,Goaster,Tony Richard,France,Colors Esport,Active,4,9,Sector One,2022-02-06,2022-04-11,2022-02-06 — 2022-04-11,Active,False,64,2022,2022,[],https://liquipedia.net/valorant/Goaster
+124,Goaster,Tony Richard,France,Colors Esport,Active,5,9,Mandatory,2022-04-11,2024-09-21,2022-04-11 — 2024-09-21,Active,False,894,2022,2024,[],https://liquipedia.net/valorant/Goaster
+125,Goaster,Tony Richard,France,Colors Esport,Active,6,9,Valiant,2025-01-08,2025-03-05,2025-01-08 — 2025-03-05,Active,False,56,2025,2025,[],https://liquipedia.net/valorant/Goaster
+126,Goaster,Tony Richard,France,Colors Esport,Active,7,9,ZERANCE,2025-03-13,2025-05-09,2025-03-13 — 2025-05-09,Active,False,57,2025,2025,[],https://liquipedia.net/valorant/Goaster
+127,Goaster,Tony Richard,France,Colors Esport,Active,8,9,Nuxeria Esport,2025-10-30,2026-01-23,2025-10-30 — 2026-01-23,Active,False,85,2025,2026,[],https://liquipedia.net/valorant/Goaster
+128,Goaster,Tony Richard,France,Colors Esport,Active,9,9,Colors Esport,2026-01-23,Present,2026-01-23 —Present,Active,True,20,2026,2026,[],https://liquipedia.net/valorant/Goaster
+129,Helas,Saleh Ben Atia,France,One More Esports,Active,1,4,EvozA Esport,2024-07-11,2025-03-28,2024-07-11 — 2025-03-28,Active,False,260,2024,2025,[],https://liquipedia.net/valorant/Helas
+130,Helas,Saleh Ben Atia,France,One More Esports,Active,2,4,GnG Amazigh,2025-05-30,2025-06-29,2025-05-30 — 2025-06-29,Active,False,30,2025,2025,[],https://liquipedia.net/valorant/Helas
+131,Helas,Saleh Ben Atia,France,One More Esports,Active,3,4,F9 EICAR,2025-06-29,2025-11-08,2025-06-29 — 2025-11-08,Active,False,132,2025,2025,[],https://liquipedia.net/valorant/Helas
+132,Helas,Saleh Ben Atia,France,One More Esports,Active,4,4,One More Esports,2026-01-05,Present,2026-01-05 —Present,Active,True,38,2026,2026,[],https://liquipedia.net/valorant/Helas
+133,Hiiro,Eric Brassac,France,LEO,Active,1,3,GTZ Esports,2024-01-08,2024-06-29,2024-01-08 — 2024-06-29,Active,False,173,2024,2024,[],https://liquipedia.net/valorant/Hiiro
+134,Hiiro,Eric Brassac,France,LEO,Active,2,3,WYLDE,2025-03-21,2025-07-05,2025-03-21 — 2025-07-05,Active,False,106,2025,2025,[],https://liquipedia.net/valorant/Hiiro
+135,Hiiro,Eric Brassac,France,LEO,Active,3,3,LEO,2025-08-18,Present,2025-08-18 —Present,Active,True,178,2025,2026,[],https://liquipedia.net/valorant/Hiiro
+136,HyP,Damien Souville,France,Mandatory,Active,1,10,HypHypHyp,2020-04-13,2020-07-02,2020-04-13 — 2020-07-02,Active,False,80,2020,2020,[],https://liquipedia.net/valorant/HyP
+137,HyP,Damien Souville,France,Mandatory,Active,2,10,Ninjas in Pyjamas,2020-07-14,2020-09-17,2020-07-14 — 2020-09-17,Active,False,65,2020,2020,[],https://liquipedia.net/valorant/HyP
+138,HyP,Damien Souville,France,Mandatory,Active,3,10,NiP,2020-09-17,2020-10-20,2020-09-17 — 2020-10-20,Inactive,False,33,2020,2020,[],https://liquipedia.net/valorant/HyP
+139,HyP,Damien Souville,France,Mandatory,Active,4,10,Cave Canem,2020-12-14,2021-01-12,2020-12-14 — 2021-01-12,Active,False,29,2020,2021,[],https://liquipedia.net/valorant/HyP
+140,HyP,Damien Souville,France,Mandatory,Active,5,10,Entropiq,2021-02-03,2021-06-01,2021-02-03 — 2021-06-01,Active,False,118,2021,2021,[],https://liquipedia.net/valorant/HyP
+141,HyP,Damien Souville,France,Mandatory,Active,6,10,Bonsoir,2021-06-27,2021-10-18,2021-06-27 — 2021-10-18,Active,False,113,2021,2021,[],https://liquipedia.net/valorant/HyP
+142,HyP,Damien Souville,France,Mandatory,Active,7,10,Last Dance,2021-10-18,2022-01-28,2021-10-18 — 2022-01-28,Active,False,102,2021,2022,[],https://liquipedia.net/valorant/HyP
+143,HyP,Damien Souville,France,Mandatory,Active,8,10,Mandatory,2022-01-28,2025-11-04,2022-01-28 — 2025-11-04,Active,False,1376,2022,2025,[],https://liquipedia.net/valorant/HyP
+144,HyP,Damien Souville,France,Mandatory,Active,9,10,Retired,2025-11-04,,2025-11-04,Active,False,0,2025,2026,[],https://liquipedia.net/valorant/HyP
+145,HyP,Damien Souville,France,Mandatory,Active,10,10,MDR,2026-01-04,Present,2026-01-04 —Present,Substitute,True,39,2026,2026,[],https://liquipedia.net/valorant/HyP
+146,Jakexd,Alhan Meguenni,France,,Active,1,4,Team Heretics,2022-02-10,2022-03-08,2022-02-10 — 2022-03-08,Active,False,26,2022,2022,[],https://liquipedia.net/valorant/Jakexd
+147,Jakexd,Alhan Meguenni,France,,Active,2,4,WYLDE,2022-05-05,2022-08-06,2022-05-05 — 2022-08-06,Active,False,93,2022,2022,[],https://liquipedia.net/valorant/Jakexd
+148,Jakexd,Alhan Meguenni,France,,Active,3,4,beGenius ESC,2022-10-18,2023-03-13,2022-10-18 — 2023-03-13,Active,False,146,2022,2023,[],https://liquipedia.net/valorant/Jakexd
+149,Jakexd,Alhan Meguenni,France,,Active,4,4,Akroma,2023-04-02,2023-07-01,2023-04-02 — 2023-07-01,Active,False,90,2023,2023,[],https://liquipedia.net/valorant/Jakexd
+150,Jamelinho213,Ryad Bentot,France,Eintracht Frankfurt,Active,1,2,UCAM Esports,2025-10-01,2025-10-13,2025-10-01 — 2025-10-13,Active,False,12,2025,2025,[],https://liquipedia.net/valorant/Jamelinho213
+151,Jamelinho213,Ryad Bentot,France,Eintracht Frankfurt,Active,2,2,SGE,2026-01-09,Present,2026-01-09 —Present,Active,True,34,2026,2026,[],https://liquipedia.net/valorant/Jamelinho213
