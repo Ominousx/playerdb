@@ -90,13 +90,6 @@ All data scraped from [Liquipedia Valorant](https://liquipedia.net/valorant/)
 
 ## ⚙️ Configuration
 
-### Tier 1 Teams
-
-Tier 1 classification includes:
-- VCT International League teams (Americas, EMEA, Pacific, China)
-- Historic top-tier organizations
-- 70+ teams total
-
 Edit `tier1_filter.py` to customize the Tier 1 team list.
 
 ### Rate Limiting
@@ -113,10 +106,6 @@ Scraper uses 2-second delays between requests to respect Liquipedia's servers. D
 - `career_database_*_transitions.csv` - Team-to-team moves
 - `career_database_*_player_stats.csv` - Aggregated player statistics
 - `career_database_*_complete.xlsx` - All tables in one Excel file
-
-### From Tier 1 Filter
-- `career_history_*_tier1.xlsx` - Only players with Tier 1 experience
-- `career_history_*_tier1_expanded.csv` - Expanded Tier 1 career data
 
 ## 🔄 Updating Data
 
@@ -136,7 +125,7 @@ This project is for educational and personal use. All player data belongs to Liq
 
 ## 🐺 Author
 
-Built by Sushant for the Wolves esports organization and Valorant community.
+Built by Ominous for the Wolves esports organization and Valorant community.
 
 ---
 
@@ -146,17 +135,3 @@ Built by Sushant for the Wolves esports organization and Valorant community.
 2. **Data Size**: Full global scrape creates ~5MB of data
 3. **Time**: Full scrape takes 6-8 hours (run overnight)
 4. **Updates**: Re-scrape when you need fresh data
-
-## 💡 Future Enhancements
-
-- [ ] Support for more regions as Liquipedia expands
-- [ ] Automated periodic scraping and updates
-- [ ] Player performance statistics integration
-- [ ] Team roster timeline visualization
-- [ ] Export to SQL databases
-- [ ] REST API for data access
-- [ ] Integration with VLR.gg for match statistics
-
----
-
-**Star ⭐ this repo if you find it useful for your Valorant esports projects!**
