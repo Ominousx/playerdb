@@ -121,7 +121,6 @@ This project is for educational and personal use. All player data belongs to Liq
 ## 🙏 Credits
 
 - Data source: [Liquipedia Valorant](https://liquipedia.net/valorant/)
-- Built for Valorant esports analytics and game development
 
 ## 🐺 Author
 
@@ -134,4 +133,3 @@ Built by Ominous for the Wolves esports organization and Valorant community.
 1. **Respect Rate Limits**: 2-second delay between requests
 2. **Data Size**: Full global scrape creates ~5MB of data
 3. **Time**: Full scrape takes 6-8 hours (run overnight)
-4. **Updates**: Re-scrape when you need fresh data
