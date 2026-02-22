@@ -144,7 +144,14 @@ class CareerHistoryDatabase:
             ]
             
             # Get player info
-            player_info = self.players_df[self.players_df['player_id'] == player_id].iloc[0]
+            player_info_df = self.players_df[self.players_df['player_id'] == player_id]
+            
+            # Skip if player not found in main database
+            if len(player_info_df) == 0:
+                print(f"  ⚠️  Skipping {player_id} - not found in main database")
+                continue
+            
+            player_info = player_info_df.iloc[0]
             
             # Calculate statistics
             total_teams = len(player_stints)
